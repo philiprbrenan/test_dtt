@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-    - name: AppaApps_dtt
+    - name: Install dtt
       uses: philiprbrenan/AppaApps_dtt@dtt
           
