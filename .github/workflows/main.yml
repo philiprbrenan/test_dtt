@@ -1,0 +1,14 @@
+name: Hello World Action
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  hello-world-job:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: AppaApps_dtt
+      uses: philiprbrenan/AppaApps_dtt@dtt
+          
